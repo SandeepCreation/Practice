@@ -10,6 +10,7 @@ public class ForLoopProgram {
 			{				
 				System.out.println(j);
 				System.out.println("sandeep");
+				System.out.println("pagare");
 			}
 			
 		}
